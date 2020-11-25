@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+ 
+.icon-search-circled:before { content: '\e03d'; } /* '' */
+.icon-search:before { content: '\e03e'; } /* '' */
+.icon-cw-circled:before { content: '\e04a'; } /* '' */
+.icon-cw:before { content: '\e04b'; } /* '' */
+.icon-heart-circled:before { content: '\e0b0'; } /* '' */
+.icon-heart:before { content: '\e0b1'; } /* '' */
+.icon-home-circled:before { content: '\e0df'; } /* '' */
+.icon-home:before { content: '\e0e0'; } /* '' */
+.icon-mail-circled:before { content: '\e0ea'; } /* '' */
+.icon-mail:before { content: '\e0eb'; } /* '' */
+.icon-menu:before { content: '\e0fe'; } /* '' */
+.icon-down-open-mini:before { content: '\e760'; } /* '' */
+.icon-right-open-big:before { content: '\e766'; } /* '' */
+.icon-bookmark-empty:before { content: '\f097'; } /* '' */
+.icon-sticky-note-o:before { content: '\f24a'; } /* '' */
+.icon-user-o:before { content: '\f2c0'; } /* '' */
+.icon-picture:before { content: '🌄'; } /* '\1f304' */

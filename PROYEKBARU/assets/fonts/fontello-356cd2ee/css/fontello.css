@@ -1,0 +1,76 @@
+@charset "UTF-8";
+
+ @font-face {
+  font-family: 'fontello';
+  src: url('../font/fontello.eot?78065409');
+  src: url('../font/fontello.eot?78065409#iefix') format('embedded-opentype'),
+       url('../font/fontello.woff2?78065409') format('woff2'),
+       url('../font/fontello.woff?78065409') format('woff'),
+       url('../font/fontello.ttf?78065409') format('truetype'),
+       url('../font/fontello.svg?78065409#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'fontello';
+    src: url('../font/fontello.svg?78065409#fontello') format('svg');
+  }
+}
+*/
+ 
+ [class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "fontello";
+  font-style: normal;
+  font-weight: normal;
+  speak: never;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+ 
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+ 
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+ 
+.icon-search-circled:before { content: '\e03d'; } /* '' */
+.icon-search:before { content: '\e03e'; } /* '' */
+.icon-cw-circled:before { content: '\e04a'; } /* '' */
+.icon-cw:before { content: '\e04b'; } /* '' */
+.icon-heart-circled:before { content: '\e0b0'; } /* '' */
+.icon-heart:before { content: '\e0b1'; } /* '' */
+.icon-home-circled:before { content: '\e0df'; } /* '' */
+.icon-home:before { content: '\e0e0'; } /* '' */
+.icon-mail-circled:before { content: '\e0ea'; } /* '' */
+.icon-mail:before { content: '\e0eb'; } /* '' */
+.icon-menu:before { content: '\e0fe'; } /* '' */
+.icon-down-open-mini:before { content: '\e760'; } /* '' */
+.icon-right-open-big:before { content: '\e766'; } /* '' */
+.icon-bookmark-empty:before { content: '\f097'; } /* '' */
+.icon-sticky-note-o:before { content: '\f24a'; } /* '' */
+.icon-user-o:before { content: '\f2c0'; } /* '' */
+.icon-picture:before { content: '🌄'; } /* '\1f304' */

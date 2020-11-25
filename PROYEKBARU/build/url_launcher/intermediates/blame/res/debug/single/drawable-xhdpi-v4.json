@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\copschilljack2shadow\\Downloads\\Compressed\\PROYEK\\PROYEK KULIAH BARU\\PROYEKBARU\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\copschilljack2shadow\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\4abc4e46b6ac7e852c1df7989c289a77\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\copschilljack2shadow\\Downloads\\Compressed\\PROYEK\\PROYEK KULIAH BARU\\PROYEKBARU\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\copschilljack2shadow\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\4abc4e46b6ac7e852c1df7989c289a77\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\copschilljack2shadow\\Downloads\\Compressed\\PROYEK\\PROYEK KULIAH BARU\\PROYEKBARU\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\copschilljack2shadow\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\4abc4e46b6ac7e852c1df7989c289a77\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\copschilljack2shadow\\Downloads\\Compressed\\PROYEK\\PROYEK KULIAH BARU\\PROYEKBARU\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\copschilljack2shadow\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\4abc4e46b6ac7e852c1df7989c289a77\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\copschilljack2shadow\\Downloads\\Compressed\\PROYEK\\PROYEK KULIAH BARU\\PROYEKBARU\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\copschilljack2shadow\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\4abc4e46b6ac7e852c1df7989c289a77\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    }
+]
